@@ -1,12 +1,18 @@
 ### Hi there 👋
 
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Kanhaiya Verma</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate fFull stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhaiya2y&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiya2y" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kanhaiya verma" target="blank"><img src="https://img.shields.io/twitter/follow/kanhaiya verma?logo=twitter&style=for-the-badge" alt="kanhaiya verma" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce**
 
@@ -22,7 +28,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/kanhaiya verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanhaiya verma" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/kanhaiyaverma4y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kanhaiyaverma4y/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kanhaiya verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanhaiya verma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kanhaiya verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanhaiya verma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanhaiya2y&show_icons=true&locale=en" alt="kanhaiya2y" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanhaiya2y&" alt="kanhaiya2y" /></p>
+
